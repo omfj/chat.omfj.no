@@ -13,8 +13,8 @@
 <div class="flex min-h-screen items-center justify-center bg-zinc-950 px-4">
 	<div class="w-full max-w-sm">
 		<div class="mb-8 text-center">
-			<h1 class="text-2xl font-semibold text-white">Welcome back</h1>
-			<p class="mt-1 text-sm text-zinc-400">Sign in to your account</p>
+			<h1 class="text-2xl font-semibold text-white">Welcome to chat.omfj.no</h1>
+			<p class="mt-1 text-sm text-zinc-400">Sign in</p>
 		</div>
 
 		<form

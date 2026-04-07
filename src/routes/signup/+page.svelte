@@ -14,7 +14,7 @@
 	<div class="w-full max-w-sm">
 		<div class="mb-8 text-center">
 			<h1 class="text-2xl font-semibold text-white">Create an account</h1>
-			<p class="mt-1 text-sm text-zinc-400">Start a conversation with a human</p>
+			<p class="mt-1 text-sm text-zinc-400">Start a conversation with Ole Magnus</p>
 		</div>
 
 		<form
