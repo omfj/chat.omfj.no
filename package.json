@@ -9,8 +9,7 @@
     "preview": "vp preview",
     "prepare": "vp config && svelte-kit sync || echo ''",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-    "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
-    "seed": "node scripts/seed.js --seed-admin"
+    "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
